@@ -1,0 +1,128 @@
+@import 'modern-normalize/modern-normalize.css';
+
+
+.header-logo:hover,
+.header-logo:focus{
+    color: orange;
+}
+
+.nav-link:hover,
+.nav-link:focus{
+    color: orange;
+}
+
+.address-link:hover,
+.address-link:focus{
+    color: orange;
+}
+
+.footer-logo:hover,
+.header-logo:focus{
+    color: orange;
+}
+
+.team-subheading:hover,
+.team-subheading:focus{
+    color: red;
+}
+
+
+body {
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  color:black;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+#title{
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 107%;
+}
+
+.main-subheading{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 120%;
+}
+
+.main-list p{
+    font-size: 16px;
+    line-height: 150%;
+}
+
+.team-title{
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.team-images{
+   width: 264px;
+   height: 260px;
+}
+
+.team-subheading{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 120%;
+}
+
+.team-list p{
+    font-size: 16px;
+    line-height: 150%;
+}
+
+.footer-description{
+    font-size: 16px;
+    line-height: 150%;
+}
+
+.header{
+    background-color: #FFFFFF;
+}
+
+.title-section{
+    color: white;
+    background-color: #2E2F42;
+}
+
+.button{
+    background-color: #4D5AE5;
+    cursor: pointer;
+}
+
+.team-section{
+    background-color: #F4F4FD;
+}
+
+.footer{
+    color: #F4F4FD;
+    background-color: #2E2F42;
+}
+
+.portfolio-images{
+    width: 360px;
+    height: 300px;
+}
+
+.portfolio-subheading{
+    
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+
+}
+
+.list-portfolio{
+    
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+
+}
+
+.title-portfolio{
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 111%;
+}
